@@ -1811,7 +1811,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #990000;
+			box-shadow: 0 0 0 2px #cccccc;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #990000;
+			background-color: #cccccc;
 			color: #c7ebe8;
 		}
 
@@ -2706,7 +2706,7 @@
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #990000;
+				color: #cccccc;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
