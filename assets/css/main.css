@@ -1700,7 +1700,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #990000;
+			box-shadow: 0 0 0 2px #4D0000;
 		}
 
 	.select-wrapper {
