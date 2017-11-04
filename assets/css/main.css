@@ -1700,7 +1700,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #4D0000;
+			box-shadow: 0 0 0 2px #dddddd;
 		}
 
 	.select-wrapper {
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #990000;
+			background-color: #4D0000;
 			color: #c7ebe8;
 		}
 
